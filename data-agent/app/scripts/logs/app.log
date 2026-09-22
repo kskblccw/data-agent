@@ -1,0 +1,4 @@
+2026-05-12 09:08:47.024 | INFO     | request_id - 1 | __main__:build:7 - build meta knowledge
+2026-05-12 09:13:41.733 | INFO     | request_id - 1 | __main__:build:7 - build meta knowledge
+2026-05-12 09:28:41.292 | INFO     | request_id - 1 | __main__:build:6 - build meta knowledge
+2026-05-12 10:20:06.085 | INFO     | request_id - 1 | app.services.meta_knowledge_service:build:22 - 加载配置文件完成

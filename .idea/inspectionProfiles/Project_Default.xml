@@ -1,0 +1,50 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="Eslint" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="fastapi" />
+          <option value="uvicorn" />
+          <option value="sse-starlette" />
+          <option value="websockets" />
+          <option value="pydantic" />
+          <option value="pydantic-settings" />
+          <option value="langchain" />
+          <option value="langchain-community" />
+          <option value="langgraph" />
+          <option value="langfuse" />
+          <option value="openai" />
+          <option value="pymilvus" />
+          <option value="elasticsearch" />
+          <option value="rank-bm25" />
+          <option value="sentence-transformers" />
+          <option value="FlagEmbedding" />
+          <option value="asyncpg" />
+          <option value="redis" />
+          <option value="sqlalchemy" />
+          <option value="httpx" />
+          <option value="aiofiles" />
+          <option value="python-multipart" />
+          <option value="unstructured" />
+          <option value="openpyxl" />
+          <option value="python-docx" />
+          <option value="PyPDF2" />
+          <option value="python-jose" />
+          <option value="passlib" />
+          <option value="opentelemetry-api" />
+          <option value="opentelemetry-sdk" />
+          <option value="prometheus-client" />
+          <option value="python-dotenv" />
+          <option value="tenacity" />
+          <option value="loguru" />
+          <option value="jinja2" />
+          <option value="orjson" />
+          <option value="pytest" />
+          <option value="pytest-asyncio" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
